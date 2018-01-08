@@ -22,12 +22,5 @@ npm-debug.log
 *.gz
 
 *.psd
-notes/*/*.md
-!notes/*/040.md
-!notes/*/043.md
-!notes/*/102.md
-!notes/*/201.md
-!notes/*/204.md
-!notes/*/205.md
-!notes/*/208.md
-!notes/*/304.md
+notes/featured/*.md
+!notes/featured/102.*.md
